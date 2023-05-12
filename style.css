@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500&family=Lato:wght@500&family=Nunito&family=Open+Sans:ital,wght@1,300&family=Patua+One&family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,700;1,6..96,400&family=Montserrat:wght@400;600;700&family=Nunito:wght@400;700&family=Open+Sans:ital,wght@1,300&family=Poppins:ital,wght@0,400;1,200&family=Roboto&family=Source+Sans+Pro:ital,wght@0,700;1,400&display=swap');
 
 /* || BASIC RESET */
 *{
@@ -35,7 +36,8 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
     background-color: var(--PRIMARY-BG-COLOR);
 }
 
